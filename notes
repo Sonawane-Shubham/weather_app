@@ -1,0 +1,18 @@
+how to create a file in vscode terminal
+pathFolder>>type nul > filename.extenssion
+ befor starting any project install npm
+ how to install npm (in root folder)
+ >>npm init
+
+ then install express
+
+ "" for homepage "/" it is also used for homepage in app.ge() method
+
+ we can run multiple express application on our system using different port number
+
+ how to call static html page throught server app index.html
+
+ api call
+ https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
+ https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
+ https://www.weatherapi.com/docs/
